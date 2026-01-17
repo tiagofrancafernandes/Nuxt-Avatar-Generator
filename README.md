@@ -2,6 +2,9 @@
 
 A simple Nuxt application that generates SVG avatars based on user names. It extracts initials (two letters) from the provided text and renders a clean, scalable avatar with customizable text color, background color, and size via query parameters. Ideal for profile placeholders, user lists, and any UI that needs lightweight, fast, cache-friendly avatars.
 
+## [Demo](https://avatar-svg.vercel.app/)
+
+![print1.jpeg](print1.jpeg)
 
 ## Nuxt Minimal Starter
 
