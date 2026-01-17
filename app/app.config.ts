@@ -1,6 +1,6 @@
 export default defineAppConfig({
-    name: 'MKPay Backoffice',
-    description: 'Sistema Administrativo MKPay',
+    name: 'Nuxt Avatar Generator',
+    description: 'A simple avatar generator built with Nuxt.js',
     version: '1.0.0',
     icon: {
         size: '', // default <Icon> size applied

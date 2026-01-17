@@ -5,8 +5,8 @@
 
         <div class="space-y-12">
             <!-- API Documentation -->
-            <section class="border rounded-lg p-6 bg-white shadow-sm dark:bg-gray-800">
-                <h2 class="text-2xl font-semibold mb-4 text-green-500">API Route: /avatar</h2>
+            <section class="border rounded-lg p-6 bg-white shadow-sm dark:bg-gray-800 dark:text-white">
+                <h2 class="text-2xl font-semibold mb-4 text-green-500">API Route: <span class="text-orange-500">/avatar</span></h2>
                 <p class="mb-4 text-gray-600 dark:text-gray-300">
                     Generates an SVG avatar image based on initials.
                 </p>
@@ -62,8 +62,8 @@
             </section>
 
             <!-- Component Documentation -->
-            <section class="border rounded-lg p-6 bg-white shadow-sm dark:bg-gray-800">
-                <h2 class="text-2xl font-semibold mb-4 text-green-500">Component: &lt;AvatarInitials /&gt;</h2>
+            <section class="border rounded-lg p-6 bg-white shadow-sm dark:bg-gray-800 dark:text-white">
+                <h2 class="text-2xl font-semibold mb-4 text-green-500">Component: <span class="text-orange-500">&lt;AvatarInitials /&gt;</span></h2>
                 <p class="mb-4 text-gray-600 dark:text-gray-300">
                     A Vue component that renders the avatar directly using SVG.
                 </p>

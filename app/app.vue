@@ -13,9 +13,9 @@ useHead({
     },
 });
 
-const title = 'MKPay Backoffice - Plataforma Administrativa';
+const title = 'Nuxt Avatar Generator';
 const description =
-    'Sistema administrativo MKPay para gestão de clientes, aprovação de contas, integrações de pagamento e configurações da plataforma.';
+    'A simple avatar generator built with Nuxt.js';
 
 useSeoMeta({
     title,
