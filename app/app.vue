@@ -14,8 +14,7 @@ useHead({
 });
 
 const title = 'Nuxt Avatar Generator';
-const description =
-    'A simple avatar generator built with Nuxt.js';
+const description = 'A simple avatar generator built with Nuxt.js';
 
 useSeoMeta({
     title,
